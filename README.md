@@ -1,2 +1,9 @@
 # SimonGame
-Implemented famous Simon Game using HTML CSS Bootstrap technologies and made it user interactive with the help of JavaScript and JQuery.
+Implemented famous Simon Game with different front-end technologies.
+
+## Technologies used:
+* HTML5
+* CSS3 
+* BOOTSTRAP4
+* JavaScript 
+* JQuery
